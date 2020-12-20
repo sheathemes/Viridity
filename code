@@ -520,21 +520,6 @@ a:hover{cursor:url("https://i.imgur.com/IepP2.jpg"), auto !important;}
     width: 540px;
     {/block:PermalinkPage}
 }
-
-.tag-page {
-    color: {color:links};
-    font-weight: 700;
-    margin-bottom: 10px;
-}
-
-.la-tags {
-    margin-right: 5px;
-    font-size: 20px;
-    padding: 3px;
-    color: {color:links};
-    display: inline-block;
-    vertical-align: middle;
-}
  
 .posts ul li {
     list-style: none;
@@ -1568,8 +1553,6 @@ iframe.tumblr_audio_player {
 </aside> <!-----------SIDEBAR----------->
 
 <section id="content"> <!-----------POST WRAPPER----------->
-
-{block:TagPage}<div class="tag-page"><i class="las la-tags"></i> posts tagged #{URLSafeTag}</div> {/block:TagPage}
 
 {block:Posts}
 
