@@ -39,7 +39,7 @@ CREDITS
 
 > NPF Photoset Fix: https://annalogs.tumblr.com/photosets
 
-> Fade toggle specific post notes: https://stackoverflow.com/questions/6347016/apply-function-to-only-one-div-class-not-all
+> CSS hover effects: https://ianlunn.github.io/Hover/
  
 !-->
  
@@ -179,6 +179,7 @@ CREDITS
 <meta name="if:inverted tumblr controls" content="1" />
 <meta name="if:Small Cursor" content="0" />
 <meta name="if:Custom Text Selection" content="0"/>
+<meta name="if:post borders" content="1"/> 
 <meta name="if:Faded Images" content="0"/>
 <meta name="if:Grayscale Images" content="0"/>
 <meta name="if:Show Captions" content="1"/>
